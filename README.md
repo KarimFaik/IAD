@@ -22,9 +22,3 @@
   - `pandas`, `NumPy` — для обработки и анализа данных
   - `matplotlib`, `seaborn` — визуализация данных
   - `scikit-learn` — машинное обучение
-
-## Как использовать
-
-1. Клонируйте репозиторий:
-   ```bash
-   git clone https://github.com/KarimFaik/IAD.git
